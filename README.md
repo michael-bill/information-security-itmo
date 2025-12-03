@@ -178,4 +178,4 @@ public interface UserRepository extends JpaRepository<User, Integer> {
 
 ## Ссылка на успешный запуск pipeline в репозитории
 
-todo:
+https://github.com/michael-bill/information-security-itmo/actions/runs/19904616899/job/57057459476
